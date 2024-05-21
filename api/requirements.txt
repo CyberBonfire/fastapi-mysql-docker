@@ -3,6 +3,6 @@ uvicorn==0.24.0.post1
 python-jose==3.3.0
 bcrypt==4.0.1
 passlib[bcrypt]
-pymysql==1.1.0
+pymysql==1.1.1
 cryptography==41.0.7
 pydantic[email]==2.5.2
